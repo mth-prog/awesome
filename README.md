@@ -12,3 +12,5 @@ aqui guardo, coisa que podem me agregar no futuro
 [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know/blob/master/README.md)
 
 [biblioteca dev](https://github.com/KAYOKG/BibliotecaDev)
+
+[criação de readme](https://www.readme-templates.com/)
