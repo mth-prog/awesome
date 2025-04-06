@@ -14,3 +14,5 @@ aqui guardo, coisa que podem me agregar no futuro
 [biblioteca dev](https://github.com/KAYOKG/BibliotecaDev)
 
 [criação de readme](https://www.readme-templates.com/)
+
+[hosting app](https://coolify.io/)
