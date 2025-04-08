@@ -16,3 +16,5 @@ aqui guardo, coisa que podem me agregar no futuro
 [criação de readme](https://www.readme-templates.com/)
 
 [hosting app](https://coolify.io/)
+
+[prompt enginner guide](https://www.promptingguide.ai/)
