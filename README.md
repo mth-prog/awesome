@@ -18,3 +18,5 @@ aqui guardo, coisa que podem me agregar no futuro
 [hosting app](https://coolify.io/)
 
 [prompt enginner guide](https://www.promptingguide.ai/)
+
+[thoughtworks](https://www.thoughtworks.com/radar)
