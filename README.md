@@ -20,3 +20,7 @@ aqui guardo, coisa que podem me agregar no futuro
 [prompt enginner guide](https://www.promptingguide.ai/)
 
 [thoughtworks](https://www.thoughtworks.com/radar)
+
+[codingchallenges mais voltado para back](https://codingchallenges.fyi/challenges/intro)
+
+[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
