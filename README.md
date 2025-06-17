@@ -24,3 +24,8 @@ aqui guardo, coisa que podem me agregar no futuro
 [codingchallenges mais voltado para back](https://codingchallenges.fyi/challenges/intro)
 
 [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
+Canais de java
+https://www.youtube.com/@giulianabezerra/videos
+https://www.youtube.com/@MatheusdoJava
+https://www.youtube.com/@javanauta
