@@ -27,5 +27,7 @@ aqui guardo, coisa que podem me agregar no futuro
 
 Canais de java
 https://www.youtube.com/@giulianabezerra/videos
+
 https://www.youtube.com/@MatheusdoJava
+
 https://www.youtube.com/@javanauta
