@@ -25,6 +25,8 @@ aqui guardo, coisa que podem me agregar no futuro
 
 [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
+[material para aprofundar em ciencia da computação](https://github.com/Universidade-Livre/ciencia-da-computacao?tab=readme-ov-file)
+
 Canais de java
 
 https://www.youtube.com/@giulianabezerra/videos
