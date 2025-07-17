@@ -34,3 +34,6 @@ https://www.youtube.com/@giulianabezerra/videos
 https://www.youtube.com/@MatheusdoJava
 
 https://www.youtube.com/@javanauta
+
+
+[Requisitos de software](https://basecamp.com/shapeup)
